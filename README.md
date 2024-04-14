@@ -1,2 +1,2 @@
 # DrawCircle
-Draw circle demostration
+Draw circle demonstration
