@@ -1,2 +1,2 @@
 # DrawCircle
-Draw circle demonstration
+円を描く
